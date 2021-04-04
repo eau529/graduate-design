@@ -109,7 +109,3 @@ mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
 | --- | --- |
 |  码匠笔记  |  xj17500 |
 |  ![](https://mawen-cdn.cn-bj.ufileos.com/wxdyh-qr.jpeg)   |   ![](https://mawen-cdn.cn-bj.ufileos.com/wx-qr.jpeg)  |
-<<<<<<< HEAD
-# psaData
-=======
->>>>>>> first commit
